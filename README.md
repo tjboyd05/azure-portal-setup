@@ -33,14 +33,9 @@ Because the Azure Portal no longer shows a pin 📌 on every service blade, I us
 - Provides visible proof of Azure hands-on work.  
 
 ### Screenshots
-> Add these images to `screenshots/` and keep the filenames below.
-
-- Dashboard with services displayed:  
+- Customized Dashboard with Pinned Services:  
   ![](screenshots/dashboard.png)
-
-- Edit mode with tile gallery (proof of method):  
-  ![](screenshots/dashboard-edit.png)
-
+  
 ---
 
 **Status:** ✅ Completed  
